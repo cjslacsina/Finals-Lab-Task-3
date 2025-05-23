@@ -31,21 +31,21 @@
 # Query Statements
 
 ## Task 1
-![image]()
+![image](https://github.com/CMHalili/EDM-V3/blob/main/Images/final%20lab%203%20task%201.png?raw=true)
 
 ## Task 2
-![image]()
+![image](https://github.com/CMHalili/EDM-V3/blob/main/Images/final%20lab%203%20task%202.png?raw=true)
 
 ## Task 3
-![image]()
+![image](https://github.com/CMHalili/EDM-V3/blob/main/Images/final%20lab%203%20task%203.png?raw=true)
 
 ## Task 4
-![image]()
+![image](https://github.com/CMHalili/EDM-V3/blob/main/Images/final%20lab%203%20task%204.png?raw=true)
 
 # Table Structure
-![image]()
+![image](https://github.com/CMHalili/EDM-V3/blob/main/Images/final%20lab%203%20task%201.1.png?raw=true)
 
-![image]()
+![image](https://github.com/CMHalili/EDM-V3/blob/main/Images/final%20lab%203%20tbl%20structure%20product.png?raw=true)
 
 # ER Diagram
-![image]()
+![image](https://github.com/CMHalili/EDM-V3/blob/main/Images/final%20lab%203%20er%20diagram.png?raw=true)

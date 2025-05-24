@@ -31,19 +31,22 @@
 # Query Statements
 
 ## Task 1
-![image]()
+![Image](https://github.com/user-attachments/assets/b57a0ee0-8848-484e-b86b-33eb5557b783)
+
+## Table Structure 1
+![Image](https://github.com/user-attachments/assets/9d681f7a-ccb1-4211-9796-c75c1e19ea85)
 
 ## Task 2
-![image]()
+![Image](https://github.com/user-attachments/assets/b58d38a7-59fe-443c-87ab-4cb3897d6efb)
 
 ## Task 3
-![image]()
+![Image](https://github.com/user-attachments/assets/c2b8b1ec-47a0-4a48-b1e4-a16314363ec2)
+
+## Table Structure 3
+![Image](https://github.com/user-attachments/assets/dcd71124-eb8c-44eb-8fff-fab4e1230144)
 
 ## Task 4
-![image]()
-
-# Table Structure
-![image]()
+![Image](https://github.com/user-attachments/assets/80cb1763-2803-422b-be8b-8318948fc2d9)
 
 # ER Diagram
-![image]()
+![Image](https://github.com/user-attachments/assets/41a9c144-5e1c-4ed5-8884-0c2805bfa4e0)
